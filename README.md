@@ -5,13 +5,13 @@
 <div>
       <img src="https://i.imgur.com/VSaZTMO.png" width="1000px" title="página de login">
       <h1>Next Challenge </h1>
-      <p>Este repositório contém uma aplicação web front-end, desenvolvida para resolução do problema apresentado em teste prático da Next Shipping.</p>
+      <p>Este repositório contém uma aplicação web front-end, desenvolvida para resolução do problema apresentado em teste prático da Next</p>
       <p>Informe um email e uma senha, o email deve conter o seu formato padrão, "email@mail.com" e senha "blabla123" com no mínimo 8 caracteres.</p>
 </div>
 
 <div>
       <h1>O Problema</h1>
-      <p>A Next Shipping apresentou um problema para programadores do mundo inteiro, para simular uma página de acesso e visualização aos usuários registrados em uma base fake.       </p>
+      <p>A Next apresentou um problema para programadores do mundo inteiro, para simular uma página de acesso e visualização aos usuários registrados em uma base fake.       </p>
 </div>
 
 <div>
